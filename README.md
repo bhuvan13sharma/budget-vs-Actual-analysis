@@ -34,7 +34,10 @@ To evaluate financial performance by comparing planned (budget) values with actu
 * **Data Table**: Detailed financial data with calculations
 
 ---
+## 📸 Dashboard Preview
 
+![Dashboard](dashboard.png) 
+---
 ## 📈 How It Works
 
 1. Enter budgeted and actual values for each category
